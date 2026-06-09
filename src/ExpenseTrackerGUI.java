@@ -12,7 +12,7 @@ public class ExpenseTrackerGUI extends JFrame {
     static final String PASS = "sahil123";
 
     private Connection con;
-    private DefaultTableModel tableModel;
+    private DefaultTableModel tableModel; 
     private JTable expenseTable;
 
     // GUI Components for CRUD
